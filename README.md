@@ -12,5 +12,5 @@ Each project demonstrates core Python concepts like:
 - Loops and conditionals
 - Functions
 - File handling
-
+- 
 Submitted for CodeAlpha Internship Project
